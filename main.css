@@ -4,15 +4,25 @@
 }
 #block_ryad
 {
-float:left    
-    
-}
-#form
-{
-    
+float:left;
+margin: 5px;
+border-color: azure;
+min-width: 20px;
+min-height: 100px;
 }
 h2 
 {
-font-size: 2em;
+font-size: 30px;
+color: brown;
+text-align: center;
+}
+#triangle
+{ 
+ 
+    min-width: 20px;
     
+}
+#button
+{
+margin: 10px;    
 }
